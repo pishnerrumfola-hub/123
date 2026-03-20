@@ -1,0 +1,5 @@
+{
+  "name": "数学错题举一反三打印机",
+  "description": "面向三年级小学生的数学练习工具，支持错题自动生成变式练习及打印功能。",
+  "requestFramePermissions": []
+}
